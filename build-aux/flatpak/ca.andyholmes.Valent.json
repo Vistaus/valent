@@ -93,8 +93,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/libical/libical.git",
-                    "commit": "3ba66a6dadd1ee69c94f971f0ea8898e330c6550",
-                    "tag": "v3.0.19",
+                    "commit": "c7d638169f9b32ba2713d35ac863471762d28df3",
+                    "tag": "v4.0.4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1637,
@@ -158,8 +158,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/boostorg/boost/releases/download/boost-1.87.0/boost-1.87.0-b2-nodocs.tar.xz",
-                            "sha256": "3abd7a51118a5dd74673b25e0a3f0a4ab1752d8d618f4b8cea84a603aeecc680",
+                            "url": "https://github.com/boostorg/boost/releases/download/boost-1.91.0-1/boost-1.91.0-1-b2-nodocs.tar.xz",
+                            "sha256": "7334bb672b9c7aa135da88bcc3111a64a198be9a7d44eb5151d9248e7cfd43ef",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 6845,
@@ -235,8 +235,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/GNOME/evolution-data-server.git",
-                    "commit": "8fe60ed30531ad5ce9f45b337dadf3f66206bafc",
-                    "tag": "3.55.3",
+                    "commit": "c63344d7f4891503c108eda5faf50621ccb2602d",
+                    "tag": "3.60.2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 10935,
@@ -264,8 +264,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/GNOME/libpeas.git",
-                    "commit": "db474b27352076973b9942a03d92c68d9851d1a5",
-                    "tag": "2.0.5",
+                    "commit": "744430715e619069b3fcb6c994f2c09257700d05",
+                    "tag": "2.2.1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6871,
@@ -288,8 +288,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/flatpak/libportal.git",
-                    "commit": "8f5dc8d192f6e31dafe69e35219e3b707bde71ce",
-                    "tag": "0.9.1",
+                    "commit": "c23024018c8eb076549a1517fcb2d7f80d3e2ed5",
+                    "tag": "0.10.0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 230124,
@@ -315,8 +315,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.freedesktop.org/pipewire/pipewire.git",
-                    "commit": "cc7439187f61dd73b81ca69f5dbccbb52ce970b2",
-                    "tag": "1.2.7",
+                    "commit": "b741e0c74f5436f0c925f7741140db0efd32cf4e",
+                    "tag": "1.6.8",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 57357,
